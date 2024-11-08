@@ -5,8 +5,11 @@
 🌱 I’m currently learning how to develop a legit plan to...save the world.
 
 💞️ I’m looking to collaborate on all things cybersec and keeping people and Iot safer online.
+
 📫 How to reach me: cyberseckat at gmail dot com.
+
 😄 Pronouns: she/her
+
 ⚡ Fun fact: Attacks on Internet of Things (IoT) devices are expected to double by 2025. Are we ready?
 
 <!---
