@@ -1,18 +1,19 @@
- 👋 Hi, I’m Kat.
- 
-👀 I’m interested in Incident Response, Logs, Forensics, Risk Assesment and developing a "golden honeypot" to protect peoplefrom online threats.
+👋 Hi, I’m Kat.
 
-🌱 I’m currently learning how to develop a legit plan to...save the world.
+👀 I'm about Incident Response, Log Analysis, Digital Forensics, Risk Assessment, and developing canary tokens to safeguard individuals from online threats.
 
-💞️ I’m looking to collaborate on all things cybersec and keeping people and Iot safer online.
+🌱 Currently, I’m on a mission to create a comprehensive cybersecurity strategy that can truly make a difference.
 
-📫 How to reach me: cyberseckat at gmail dot com.
+💞️ I’m eager to collaborate on all things cybersec and work together to enhance the safety of people and IoT devices online.
+
+📫 You can reach me at: cyberseckat [at] gmail [dot] com.
 
 😄 Pronouns: she/her
 
-⚡ Fun fact #1: Attacks on Internet of Things (IoT) devices are expected to double by 2025. Are we ready?
-
+⚡ Fun fact: Did you know attacks on Internet of Things (IoT) devices are projected to double by 2025? Let's get prepared!
+This version maintains your original message while adding some polish and clarity. How
+ 
 <!---
-CyberSecKat/CyberSecKat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CyberSecKat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
