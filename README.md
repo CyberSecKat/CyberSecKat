@@ -11,7 +11,6 @@
 😄 Pronouns: she/her
 
 ⚡ Fun fact: Did you know attacks on Internet of Things (IoT) devices are projected to double by 2025? Let's get prepared!
-This version maintains your original message while adding some polish and clarity. How
  
 <!---
 CyberSecKat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
