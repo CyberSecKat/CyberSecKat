@@ -16,8 +16,8 @@ SOC operations; Incident response; Prompt engineering; Python; Azure
 
 Connect
 📫 You can reach me at: cyberseckat [at] gmail [dot] com.
-LinkedIn: https://www.linkedin.com/in/katmarie
-Website: https://katmarie.com
+LinkedIn: https://www.linkedin.com/in/katmarie](https://www.linkedin.com/in/kathleenfell/
+Website: https://www.katmarie.com
 
 Featured projects
 - Personal Website — Portfolio + advocacy hub
