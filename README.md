@@ -1,5 +1,5 @@
 👋 Hi, I’m Kat. 
-Cybersecurity Analyst | Civic tech advocate | Writer
+Cybersecurity Analyst | Civic Tech Advocate | Writer 
 😄 Pronouns: she/her
 
 👀 I'm about Incident Response, Log Analysis, Digital Forensics, Risk Assessment, and helping regular people stay safe online.
@@ -21,10 +21,10 @@ Website: https://www.katmarie.com
 
 Featured projects
 - Personal Website — Portfolio + advocacy hub
-- Book: Digital Defense for Women — planning & resources
-- SOC Toolkit — playbooks and checks
+- Book: The Modern Girls Guide to Cybersecurity: How to Stay Safe In Today's Digital World.
+- SOC Toolkit — playbooks and IR Plan
 
-Quick wins
+CyberSec Tips + 
 Want practical security guidance? Check the "Getting Started" checklist in my Personal Website repo.
 
 <!---
