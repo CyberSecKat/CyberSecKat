@@ -2,14 +2,14 @@
 Cybersecurity Analyst | Civic tech advocate | Writer
 😄 Pronouns: she/her
 
-👀 I'm about Incident Response, Log Analysis, Digital Forensics, Risk Assessment, and developing canary tokens to safeguard individuals from online threats.
+👀 I'm about Incident Response, Log Analysis, Digital Forensics, Risk Assessment, and helping regular people stay safe online.
 
 🌱 Currently, I’m on a mission to create a comprehensive cybersecurity strategy that can truly make a difference.
 
 💞️ I’m eager to collaborate on all things cybersec and work together to enhance the safety of people and IoT devices online.
 
 Skills
-SOC operations; Incident response; Prompt engineering; Python; Azure
+SOC operations; Incident response; Prompt engineering; Python; Azure, LOG Queen.
 
 ⚡ Fun fact: Did you know attacks on Internet of Things (IoT) devices are projected to double by 2025? Let's get prepared!
 
